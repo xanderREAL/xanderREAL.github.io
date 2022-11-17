@@ -1,4 +1,4 @@
-# Welcome to xanderREAL.github.io :joy:
+# Welcome to xanderREAL.github.io 
 ---
 **My favorite stuff**
 - foods
