@@ -5,4 +5,4 @@
 - animal
 - ball
 
-![image](https://rsmvet.com/wp-content/uploads/2019/06/dog-playing-with-ball.jpg))
+![image](https://rsmvet.com/wp-content/uploads/2019/06/dog-playing-with-ball.jpg)
